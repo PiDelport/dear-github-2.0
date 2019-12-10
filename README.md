@@ -181,6 +181,7 @@ Signed,
 - Guilherme de Assis, @guias12 (Web Developer)
 - Jan De Wilde, @jandw (Web developer)
 - Ian Delahorne, @iandelahorne
+- Pi Delport, @PiDelport (Software Developer)
 - Matt Dewey, @mattfromseattle (Engagement Manager)
 - Aram Drevekenin, @imsnif (Bit)
 - Tom de Bruijn, @tombruijn (Software developer)
